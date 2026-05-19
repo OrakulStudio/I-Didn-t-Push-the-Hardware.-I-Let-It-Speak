@@ -1,4 +1,4 @@
-### The Story of Viking Engine — from a Basement in Chernihiv to Rewritten PyTorch
+### The Story of Viking Engine - from a Basement in Chernihiv to Rewritten PyTorch
 
 *Orakul Studio — Chernihiv, Ukraine 🇺🇦*
 
@@ -174,7 +174,7 @@ This isn't abuse of hardware. This is **respect for hardware**.
 
 ---
 
-## AI_vazovsky — What All This Was Actually For
+## AI_vazovsky - What All This Was Actually For
 
 Alongside the engine work ran a different experiment.
 
