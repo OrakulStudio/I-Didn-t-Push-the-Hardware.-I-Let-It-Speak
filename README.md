@@ -1,10 +1,10 @@
 ### The Story of Viking Engine - from a Basement in Chernihiv to Rewritten PyTorch
 
-*Orakul Studio — Chernihiv, Ukraine 🇺🇦*
+*Orakul Studio - Chernihiv, Ukraine 🇺🇦*
 
 ---
 
-## First — Why
+## First - Why
 
 There's a question everyone asks when they see the numbers:
 
@@ -16,7 +16,7 @@ Because rank 512 isn't about bragging. It's not a numbers race. It's an attempt 
 
 Rank 32 learns style. Rank 128 learns technique. Rank 512 learns **the hand**.
 
-When AI_vazovsky at rank 512 started signing paintings — his signatures, not just scribbles  I knew I'd found the right answer. The model didn't memorize pixels. It memorized a **gesture**.
+When AI_vazovsky at rank 512 started signing paintings - his signatures, not just scribbles  I knew I'd found the right answer. The model didn't memorize pixels. It memorized a **gesture**.
 
 That's what this was all about.
 
@@ -24,7 +24,7 @@ That's what this was all about.
 
 ## Where It Started
 
-I live in Chernihiv. If you don't know where that is — google it. If you do  you understand what I'm talking about.
+I live in Chernihiv. If you don't know where that is - google it. If you do  you understand what I'm talking about.
 
 I have an RTX 4090, an i9-13900K, 128 GB RAM, and a basement.  
 The last one isn't a metaphor.
